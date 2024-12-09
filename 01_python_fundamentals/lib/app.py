@@ -18,6 +18,13 @@ import ipdb
 pet_mood = "Hungry!"
 pet_name = "Rose"
 
+#if pet_mood == "Hungry":
+#    print(f"{pet_name} needs to be fed!")
+#elif pet_mood == "Rowdy":
+#    print(f"{pet_name} needs a walk!")
+#else:
+#    print(f"{pet_name} is all good.")
+
 # 2. ✅ Create a ternary operator using "pet_mood" as a condition:
     # If pet_food is "Hungry!" => "Rose needs to be fed."
     # In all other cases => "Rose is all good."
