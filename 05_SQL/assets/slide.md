@@ -36,7 +36,7 @@ Databases allow us to store and perform CRUD actions on data outside of our code
 
 ## Where We're Headed
 
-![The Pattern](https://raw.githubusercontent.com/learn-co-students/phase3-lecture-repo-template/04_begin_intro_to_databases/04_intro_to_databases/demo/object-method-sql-query-return.drawio.svg?token=GHSAT0AAAAAABS54V3M5DXF4WXV6T3OUTPUYTJ6M6A)
+![The Pattern](./object-method-sql-query-return.drawio.svg)
 
 ---
 
